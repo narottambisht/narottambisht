@@ -16,6 +16,7 @@ I'm a Fullstack Software Engineer with Bachelor's in Computer Science 🎓. I'm 
 - 💬 Ask me about anything! I am happy to help.
 - ⚡ Fun fact: Java is to JavaScript as Car is to Carpet 😅
 - 📫 How to reach me: bishtnarottam@gmail.com
+- 🔭 Know about me: narottambisht.github.io
 
 ---
 
