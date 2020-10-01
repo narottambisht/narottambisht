@@ -1,4 +1,4 @@
-## Hello World! 🕺
+## Hello World! I'm Narottam Singh🕺
 
 
 ### Glad to see you here! 😄 &nbsp; ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fnarottambisht%2Fhit-counter)
@@ -11,7 +11,7 @@ I'm a Fullstack Software Engineer with Bachelor's in Computer Science 🎓. I'm 
 
 - 🛠 I’m currently focusing on Node, JavaScript, React, Mongodb, etc 💻.
 - 👨🏻‍💻 I’m currently persuing Full Stack Development 🚀.
-- 🎨 I also doing some Python stuff.
+- 🎨 I also love doing some Python stuff.
 - 📊 Have a keen interest in Data Science, too.
 - 💬 Ask me about anything! I am happy to help.
 - ⚡ Fun fact: Java is to JavaScript as Car is to Carpet 😅
