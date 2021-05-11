@@ -9,7 +9,7 @@ I'm a Fullstack Software Engineer with Bachelor's in Computer Science 🎓. I'm 
 
 ### Talking about Personal Stuffs:
 
-- 🛠 I’m currently focusing on Node, JavaScript, React, Mongodb, etc 💻.
+- 🛠 I’m currently focusing on Node, Typescript, JavaScript, React, Mongodb, etc 💻.
 - 👨🏻‍💻 I’m currently persuing Full Stack Development 🚀.
 - 🎨 I also love doing some Python stuff.
 - 📊 Have a keen interest in Data Science, too.
