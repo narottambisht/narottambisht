@@ -3,7 +3,7 @@
 
 ### Glad to see you here! 😄 &nbsp; ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fnarottambisht%2Fhit-counter)
 
-I'm a Fullstack Software Engineer with Bachelor's in Computer Science 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 🏻‍💻. I'm currently into Fullstack Web Development 🕸️ (Node.Js, Express, React.Js, MySQL, MongoDB) and also focusing on Python on my own.
+I'm a Fullstack Software Engineer with Bachelor's in Computer Science 🎓. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. 🏻‍💻. I'm currently into Fullstack Web Development 🕸️ (Node.Js, Express, React.Js, MySQL, MongoDB, Puppeteer) and also focusing on Python on my own.
 
 <br />
 
